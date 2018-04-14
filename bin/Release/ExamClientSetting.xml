@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XML Database.-->
+<Data>
+  <AppSetting>
+    <Shortcut>fgdgdfgd</Shortcut>
+    <Chrome>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</Chrome>
+    <IP_ADMIN>10.10.0.28</IP_ADMIN>
+  </AppSetting>
+</Data>

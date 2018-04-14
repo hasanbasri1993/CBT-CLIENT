@@ -1,0 +1,11 @@
+C:\Users\Pusdai-B\source\repos\Exam Client\bin\Release\Exam Client.exe
+C:\Users\Pusdai-B\source\repos\Exam Client\bin\Release\Exam Client.pdb
+C:\Users\Pusdai-B\source\repos\Exam Client\bin\Release\Exam Client.xml
+C:\Users\Pusdai-B\source\repos\Exam Client\obj\Release\Exam_Client.Form1.resources
+C:\Users\Pusdai-B\source\repos\Exam Client\obj\Release\Exam_Client.frm_setting.resources
+C:\Users\Pusdai-B\source\repos\Exam Client\obj\Release\Exam_Client.Resources.resources
+C:\Users\Pusdai-B\source\repos\Exam Client\obj\Release\Exam Client.vbproj.GenerateResource.cache
+C:\Users\Pusdai-B\source\repos\Exam Client\obj\Release\Exam Client.vbproj.CoreCompileInputs.cache
+C:\Users\Pusdai-B\source\repos\Exam Client\obj\Release\Exam Client.exe
+C:\Users\Pusdai-B\source\repos\Exam Client\obj\Release\Exam Client.xml
+C:\Users\Pusdai-B\source\repos\Exam Client\obj\Release\Exam Client.pdb
